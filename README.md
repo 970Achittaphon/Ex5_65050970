@@ -1,5 +1,5 @@
 # Ex5_65050970
-"
+
 MVC
   M
     -Student (Entity)
@@ -11,4 +11,3 @@ MVC
     -studentList (JSP)
   C
     -AddStudentServlet (Servlet)
-"
