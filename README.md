@@ -1,13 +1,13 @@
 # Ex5_65050970
 
-MVC
-  M
+MVC \n
+  (M)
     -Student (Entity)
     -StudentTable
-  V
+  (V)
     -index
     -addSuccess (JSP)
     -addFailure (JSP)
     -studentList (JSP)
-  C
+  (C)
     -AddStudentServlet (Servlet)
