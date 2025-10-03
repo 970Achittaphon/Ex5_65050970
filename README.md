@@ -1,6 +1,6 @@
 # Ex5_65050970
 
-MVC \n
+MVC 
   (M)
     -Student (Entity)
     -StudentTable
